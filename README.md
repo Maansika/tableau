@@ -26,14 +26,6 @@ This project showcases interactive dashboards created using **Tableau** for data
 - Customize dashboards as needed# Tableau-Projects
 Learnt Data Visualization and Data Analytics with Tableau by solving 2 Realistic Analytics Projects.
 
-  <pre>
-  1. Global Superstore
-  <imgsrc='C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot.png'>             
-  2. UT Mart Sales Analytics
-  <imgsrc='C:\Users\hp\OneDrive\Pictures\Screenshots\Scrnsht.png'>            
-  </pre>
-
-
 
 ## What I Learnt in Tableau :
 
