@@ -1,0 +1,5 @@
+Global-superstore Sales Data Overview:
+This dataset contains transactional sales records from various regions and markets, detailing product sales, customer segments, and shipping details. It includes fields such as Order ID, Order Date, Ship Date, Customer Name, Ship Mode, and Order Priority.
+The dataset covers different markets, including the United States and Australia, with customer segments categorized as Consumer and Corporate. Products fall under categories like Technology, Furniture, and Accessories, with details on sales revenue, quantity sold, discounts applied, and profit margins.
+Additionally, the shipping and logistics aspects, such as Shipping Cost and Order Priority, provide insights into delivery efficiency and cost impact. This data can be leveraged for sales trend analysis, customer segmentation, profitability insights, and supply chain optimization.
+
